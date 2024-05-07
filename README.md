@@ -1,4 +1,8 @@
-https://pixel-profile.vercel.app/api/github-stats?username=<sabbenthedev>&theme=journey&pixelate_avatar=false
+<picture decoding="async" loading="lazy">
+  <source media="(prefers-color-scheme: light)" srcset="https://pixel-profile.vercel.app/api/github-stats?username=sabbenthedev&theme=fuji&hide=avatar&dithering=true&a=1">
+  <source media="(prefers-color-scheme: dark)" srcset="https://pixel-profile.vercel.app/api/github-stats?username=sabbenthedevn&theme=fuji&hide=avatar&avatar_border=false&screen_effect=true">
+  <img alt="github stats" src="https://pixel-profile.vercel.app/api/github-stats?username=sabbenthedev&screen_effect=false&theme=fuji&avatar_border=false&pixelate_avatar=false&hide=avatar&dithering=true">
+</picture>
 
 <!--
 **sabbenthedev/sabbenthedev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

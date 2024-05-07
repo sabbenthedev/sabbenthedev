@@ -1,4 +1,4 @@
-https://pixel-profile.vercel.app/api/github-stats?username=sabbenthedev&theme=journey&pixelate_avatar=false
+https://pixel-profile.vercel.app/api/github-stats?username=<sabbenthedev>&theme=journey&pixelate_avatar=false
 
 <!--
 **sabbenthedev/sabbenthedev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
